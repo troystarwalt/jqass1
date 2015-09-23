@@ -1,5 +1,6 @@
 #wrapper {
-	width: 1020px;
+	width: 400px;
+	height:500px;
 	margin:0 auto;
 }
 
@@ -8,6 +9,9 @@
 	margin: 6px;
 	height: 100px;
 	width:100px;
+	float:left;
+	position: absolute;
+	top:400px;
 }
 
 .green {
@@ -15,5 +19,67 @@
 	margin: 6px;
 	height: 100px;
 	width:100px;
+/*	float:left;*/
+	position: absolute;
+	border: 1px dashed purple;
 }
 
+#box1 {
+	position: absolute;
+	left: 200px;
+	top: 18px;
+}
+
+#box3 {
+	position: absolute;
+	left: 200px;
+	top:500px;
+}
+
+#box5 {
+	position: absolute;
+	left: 600px;
+	top:200px;
+}
+
+#box7 {
+	position: absolute;
+	right: 90px;
+	top: 100px;
+}
+
+#box9 {
+	position: absolute;
+	right: 110px;
+	top:250px;
+}
+
+#box0 {
+	position: absolute;
+	left: 200px;
+	top: 22px;
+}
+
+#box2 {
+	position: absolute;
+	left: 200px;
+	top:510px;
+}
+
+#box4 {
+	position: absolute;
+	left: 600px;
+	top:220px;
+}
+
+#box6 {
+	position: absolute;
+	right: 90px;
+	top: 110px;
+}
+
+#box8 {
+	position: absolute;
+	right: 110px;
+	top:270px;
+}
