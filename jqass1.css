@@ -1,0 +1,19 @@
+#wrapper {
+	width: 1020px;
+	margin:0 auto;
+}
+
+.blue {
+	background-color: #2274A5;
+	margin: 6px;
+	height: 100px;
+	width:100px;
+}
+
+.green {
+	background-color: #32936F;
+	margin: 6px;
+	height: 100px;
+	width:100px;
+}
+
